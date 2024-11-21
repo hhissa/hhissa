@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey everyone, I'm Hassan. I'm currently working on cool shaders, check a few of them out here or on my shadertoy: https://www.shadertoy.com/user/eissa.<br>I'm currently transitioning from OpenGL to DirectX 12 using Frank Lua's book, Intro to 3D Game Programming with DirectX 12.<br>I'm also trying to deepen my knowledge of embedded systems and low-level programming, so any guidance would be great.
+Hey everyone, I'm Hassan. I'm currently working on cool shaders and software.
 
 
 ## 🌐 Socials:
